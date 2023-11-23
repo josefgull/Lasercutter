@@ -4,4 +4,4 @@ Leider habe ich den Cutter nie vollständig gebaut.
 Trotzdem lade ich hier die unvollständigen CAD files hoch. 
 Eines Tages möchte ich den Cutter vollständig aufbauen. 
 
-![plot](./cutter1.png)
+![plot](./cuttter1.png)
